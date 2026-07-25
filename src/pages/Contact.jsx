@@ -76,8 +76,7 @@ export default function Contact() {
               <div>
                 <div className="contact-info-title">Phone</div>
                 <div className="contact-info-text">
-                  +91 98765 43210<br />
-                  +1 (555) 123-4567
+                  +91 8493013986
                 </div>
               </div>
             </div>
@@ -89,8 +88,7 @@ export default function Contact() {
               <div>
                 <div className="contact-info-title">Email</div>
                 <div className="contact-info-text">
-                  info@veyoraglobalservices.com<br />
-                  support@veyoraglobalservices.com
+                  info@veyoraglobalservices.in
                 </div>
               </div>
             </div>

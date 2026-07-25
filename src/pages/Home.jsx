@@ -143,12 +143,12 @@ export default function Home() {
             </p>
             
             <div className="saas-hero-buttons">
-              <Link to="/contact" className="btn btn-primary btn-lg">
-                Get Started
-              </Link>
-              <Link to="/about" className="btn btn-ghost btn-lg">
-                Talk to Sales <ArrowRight size={18} />
-              </Link>
+              <a href="mailto:info@veyoraglobalservices.in" className="btn btn-primary btn-lg">
+                Email Us
+              </a>
+              <a href="tel:8493013986" className="btn btn-ghost btn-lg">
+                Call Us <ArrowRight size={18} />
+              </a>
             </div>
           </div>
 
