@@ -47,7 +47,7 @@ export default function Footer() {
               </div>
               <div style={{ display: 'flex', alignItems: 'flex-start', gap: '0.75rem', color: 'var(--text-secondary)' }}>
                 <MapPin size={18} color="#f87171" style={{ flexShrink: 0, marginTop: '4px' }} />
-                <span>Bagh-E-Firdous Col, Hanjiwera, Pattan, Baramulla, J&K - 193121</span>
+                <span>Sunder Bani, Jammu, J&K - 185153</span>
               </div>
             </div>
 

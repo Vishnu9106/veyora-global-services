@@ -63,8 +63,8 @@ export default function Contact() {
               <div>
                 <div className="contact-info-title">Our Office</div>
                 <div className="contact-info-text">
-                  123 Business Park, Tower B, 4th Floor<br />
-                  Mumbai, Maharashtra 400001, India
+                  Sunder Bani, Jammu,<br />
+                  J&K 185153
                 </div>
               </div>
             </div>
