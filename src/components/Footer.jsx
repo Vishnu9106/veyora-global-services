@@ -38,15 +38,15 @@ export default function Footer() {
             
             <div className="footer-contact-info" style={{ display: 'flex', flexDirection: 'column', gap: '1rem', marginBottom: '2rem' }}>
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', color: 'var(--text-secondary)' }}>
-                <Mail size={18} color="#f87171" />
+                <Mail size={18} color="#6366f1" />
                 <span>info@veyoraglobalservices.in</span>
               </div>
               <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', color: 'var(--text-secondary)' }}>
-                <Phone size={18} color="#f87171" />
+                <Phone size={18} color="#6366f1" />
                 <span>+91 8493013986</span>
               </div>
               <div style={{ display: 'flex', alignItems: 'flex-start', gap: '0.75rem', color: 'var(--text-secondary)' }}>
-                <MapPin size={18} color="#f87171" style={{ flexShrink: 0, marginTop: '4px' }} />
+                <MapPin size={18} color="#6366f1" style={{ flexShrink: 0, marginTop: '4px' }} />
                 <span>Sunder Bani, Jammu, J&K - 185153</span>
               </div>
             </div>
