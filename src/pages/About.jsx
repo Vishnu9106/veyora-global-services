@@ -27,29 +27,7 @@ export default function About() {
         </div>
       </section>
 
-      {/* Stats */}
-      <section style={{ paddingBottom: '80px' }}>
-        <div className="container">
-          <div className="about-stats-row">
-            <div className="about-stat-card fade-in-up">
-              <div className="about-stat-value">8+</div>
-              <div className="about-stat-label">Years of Experience</div>
-            </div>
-            <div className="about-stat-card fade-in-up">
-              <div className="about-stat-value">500+</div>
-              <div className="about-stat-label">Global Clients</div>
-            </div>
-            <div className="about-stat-card fade-in-up">
-              <div className="about-stat-value">1200+</div>
-              <div className="about-stat-label">Team Members</div>
-            </div>
-            <div className="about-stat-card fade-in-up">
-              <div className="about-stat-value">15+</div>
-              <div className="about-stat-label">Countries Served</div>
-            </div>
-          </div>
-        </div>
-      </section>
+
 
       {/* Mission */}
       <section className="section">
@@ -188,34 +166,14 @@ export default function About() {
             </p>
           </div>
 
-          <div className="team-grid">
+          <div className="team-grid" style={{ gridTemplateColumns: 'minmax(300px, 400px)', justifyContent: 'center' }}>
             <div className="team-card fade-in-up">
-              <div className="team-avatar">AK</div>
-              <div className="team-name">Arjun Kapoor</div>
+              <div className="team-avatar">AS</div>
+              <div className="team-name">Arjun Sharma</div>
               <div className="team-role">Chief Executive Officer</div>
               <p className="team-desc">
                 With 15+ years in global business operations, Arjun leads 
                 Veyora's strategic direction and growth initiatives.
-              </p>
-            </div>
-
-            <div className="team-card fade-in-up">
-              <div className="team-avatar">SP</div>
-              <div className="team-name">Sarah Peterson</div>
-              <div className="team-role">Head of Operations</div>
-              <p className="team-desc">
-                Sarah oversees day-to-day service delivery, ensuring every client 
-                receives consistent, high-quality support.
-              </p>
-            </div>
-
-            <div className="team-card fade-in-up">
-              <div className="team-avatar">MR</div>
-              <div className="team-name">Michael Rodriguez</div>
-              <div className="team-role">Chief Technology Officer</div>
-              <p className="team-desc">
-                Michael drives our technology strategy, building the tools and 
-                platforms that power our global operations.
               </p>
             </div>
           </div>
