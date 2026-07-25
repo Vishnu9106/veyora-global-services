@@ -168,7 +168,7 @@ export default function About() {
 
           <div className="team-grid" style={{ gridTemplateColumns: 'minmax(300px, 400px)', justifyContent: 'center' }}>
             <div className="team-card fade-in-up">
-              <img src="/arjun.jpg" alt="Arjun Sharma" style={{ width: '90px', height: '90px', borderRadius: '50%', objectFit: 'cover', margin: '0 auto 1rem', display: 'block', border: '2px solid var(--bg-tertiary)' }} />
+              <img src="/arjun.jpg" alt="Arjun Sharma" style={{ width: '150px', height: '150px', borderRadius: '50%', objectFit: 'cover', margin: '0 auto 1.5rem', display: 'block', border: '3px solid var(--bg-tertiary)', boxShadow: '0 4px 20px rgba(0,0,0,0.1)' }} />
               <div className="team-name">Arjun Sharma</div>
               <div className="team-role">Chief Executive Officer</div>
               <p className="team-desc">
