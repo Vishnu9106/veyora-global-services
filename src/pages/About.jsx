@@ -168,11 +168,11 @@ export default function About() {
 
           <div className="team-grid" style={{ gridTemplateColumns: 'minmax(300px, 400px)', justifyContent: 'center' }}>
             <div className="team-card fade-in-up">
-              <div className="team-avatar">AS</div>
+              <img src="/arjun.jpg" alt="Arjun Sharma" style={{ width: '90px', height: '90px', borderRadius: '50%', objectFit: 'cover', margin: '0 auto 1rem', display: 'block', border: '2px solid var(--bg-tertiary)' }} />
               <div className="team-name">Arjun Sharma</div>
               <div className="team-role">Chief Executive Officer</div>
               <p className="team-desc">
-                With 15+ years in global business operations, Arjun leads 
+                With 5+ years in business operations, Arjun leads 
                 Veyora's strategic direction and growth initiatives.
               </p>
             </div>
