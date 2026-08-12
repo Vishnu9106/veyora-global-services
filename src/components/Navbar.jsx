@@ -16,7 +16,7 @@ export default function Navbar({ theme, toggleTheme }) {
     <nav className="navbar">
       <div className="container navbar-inner">
         <Link to="/" className="navbar-brand">
-          <img src="/logo.jpg" alt="Veyora Global Services" style={{ height: '120px', objectFit: 'contain' }} />
+          <img src="/logo.jpg" alt="Veyora Global Services" style={{ height: '360px', objectFit: 'contain' }} />
         </Link>
 
         <div className={`navbar-links ${menuOpen ? 'open' : ''}`}>

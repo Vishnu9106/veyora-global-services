@@ -30,7 +30,7 @@ export default function Footer() {
         <div className="footer-content">
           <div>
             <div className="footer-brand-name" style={{ marginBottom: '1.5rem' }}>
-              <img src="/logo.jpg" alt="Veyora Global Services" style={{ height: '144px', objectFit: 'contain' }} />
+              <img src="/logo.jpg" alt="Veyora Global Services" style={{ height: '432px', objectFit: 'contain' }} />
             </div>
             <p className="footer-brand-desc" style={{ marginBottom: '2rem' }}>
               Providing top-notch customer service outsourcing solutions to help your business thrive.
