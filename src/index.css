@@ -284,8 +284,7 @@ input, textarea {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  min-height: 72px;
-  padding: 10px 0;
+  height: 90px;
 }
 
 .navbar-brand {
