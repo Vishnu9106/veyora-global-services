@@ -254,14 +254,14 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Why Hire Us — Horizontal Feature Rows */}
+      {/* Why Hire Us - Horizontal Feature Rows */}
       <section className="section">
         <div className="container">
           <div className="section-header">
             <span className="section-tag">Why Choose Us</span>
-            <h2 className="section-title">Why Hire Veyora Global</h2>
+            <h2 className="section-title">Why Hire Veyora Global Services</h2>
             <p className="section-subtitle">
-              We don't just process tasks — we become an extension of your team, 
+              We don't just process tasks, we become an extension of your team, 
               delivering results that move your business forward.
             </p>
           </div>
